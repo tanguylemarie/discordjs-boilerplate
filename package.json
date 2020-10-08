@@ -1,0 +1,11 @@
+{
+  "name": "tutobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Pentiminax",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
